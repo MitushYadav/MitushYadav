@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitushYadav
 - 👀 I’m interested in Powershell, C#, ConfigMgr, Intune and Azure
-- 🌱 I’m currently learning Azure administration
+- 🌱 I’m currently learning Azure, .NET, and HTML/CSS.
 - 💞️ I’m looking to collaborate on cool Powershell projects
 
 <!---
